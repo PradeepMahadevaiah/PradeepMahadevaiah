@@ -42,7 +42,7 @@ I'm passionate about cloud architecture and DevOps practices, currently building
 - Advanced AWS Services
 - Cloud Security Best Practices
 - Infrastructure Optimization
-- German Language (Currently B1)
+- German Language (Currently B2)
 - Kubernetes
 - Artificial Intelligence
 
